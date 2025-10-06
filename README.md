@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="A_digital_graphic_design_banner_features_Ahmed_Mah.png" alt="Ahmed Mahrous Banner" width="100%"/>
+</p>
+
+
 <h1 align="center">Ahmed Mahrous</h1>
 <h3 align="center">Flutter Developer | 3 Years of Experience | Clean Architecture Advocate</h3>
 
