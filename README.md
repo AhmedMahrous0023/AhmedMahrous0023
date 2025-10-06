@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_digital_graphic_design_banner_features_Ahmed_Mah.png" alt="Ahmed Mahrous Banner" width="100%"/>
+  <img src="https://github.com/AhmedMahrous0023/AhmedMahrous0023/blob/main/1ddcbf56-e7ad-4483-be37-d252547a411c.png" alt="Ahmed Mahrous Banner" width="100%"/>
 </p>
 
 
