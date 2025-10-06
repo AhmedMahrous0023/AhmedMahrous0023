@@ -55,8 +55,8 @@ I focus on **clean architecture**, **beautiful UI**, and **smooth user experienc
 
 ### 📊 GitHub Overview
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AhmedMahrous0023&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMahrous0023&layout=compact&theme=vision-friendly-dark"/>
 </p>
 
 ---
