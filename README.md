@@ -71,10 +71,10 @@ I focus on **clean architecture**, **beautiful UI**, and **smooth user experienc
 
 ### 📫 Contact
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="ahmed.mahrous1092@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF6F00?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmedmahrous0023?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
