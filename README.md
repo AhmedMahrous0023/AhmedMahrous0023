@@ -44,7 +44,56 @@ I focus on **clean architecture**, **beautiful UI**, and **smooth user experienc
 
 ---
 
-### 🌟 Selected Projects | Project | Description | Key Features | |----------|--------------|---------------| | **Qimni** | A smart Linktree-style app where users share links, sell products, and earn commissions. | Pro & Premium subscriptions, analytics, shop management, social sharing | | **Meknaz** | A financial management app for expense tracking and saving goals. | Budget planner, goal tracker, spending insights | | **Inner Peace** | A mental health support app for mood tracking and communication with therapists. | Mood tracking, AI-powered chat, motivation, awareness content | | **Qatra** | IoT-connected water monitoring app using Arduino. | Real-time consumption tracking, awareness tips | | **PopRoom** | A voice chat app with WebRTC, private rooms, and deep linking. | Cross-platform linking, real-time communication | | **AOU Connect** | A university companion app for students. | Schedule tracking, chat per subject, academic advisor contact | | **Noor AlEman** | Islamic app for Quran, Duas, and prayer times. | Quran recitation, daily reminders, full localization | | **Yaqeen - أذكار المسلم** | Islamic app for daily Azkar and supplications. | Morning & evening Azkar, prayer reminders, daily notifications, [Google Play](https://play.google.com/store/apps/details?id=com.yakeen.azkar.yaqeen_azkar) |
+### 🌟 Selected Projects
+
+---
+
+**Project:** Qimni  
+**Description:** A smart Linktree-style app where users share links, sell products, and earn commissions.  
+**Key Features:** Pro & Premium subscriptions, analytics, shop management, social sharing  
+
+---
+
+**Project:** Meknaz  
+**Description:** A financial management app for expense tracking and saving goals.  
+**Key Features:** Budget planner, goal tracker, spending insights  
+
+---
+
+**Project:** Inner Peace  
+**Description:** A mental health support app for mood tracking and communication with therapists.  
+**Key Features:** Mood tracking, AI-powered chat, motivation, awareness content  
+
+---
+
+**Project:** Qatra  
+**Description:** IoT-connected water monitoring app using Arduino.  
+**Key Features:** Real-time consumption tracking, awareness tips  
+
+---
+
+**Project:** PopRoom  
+**Description:** A voice chat app with WebRTC, private rooms, and deep linking.  
+**Key Features:** Cross-platform linking, real-time communication  
+
+---
+
+**Project:** AOU Connect  
+**Description:** A university companion app for students.  
+**Key Features:** Schedule tracking, chat per subject, academic advisor contact  
+
+---
+
+**Project:** Noor AlEman  
+**Description:** Islamic app for Quran, Duas, and prayer times.  
+**Key Features:** Quran recitation, daily reminders, full localization  
+
+---
+
+**Project:** Yaqeen - أذكار المسلم  
+**Description:** Islamic app for daily Azkar and supplications.  
+**Key Features:** Morning & evening Azkar, prayer reminders, daily notifications  
+**Download:** [Google Play](https://play.google.com/store/apps/details?id=com.yakeen.azkar.yaqeen_azkar)  
 
 ---
 
