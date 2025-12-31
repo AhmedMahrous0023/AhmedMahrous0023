@@ -44,17 +44,7 @@ I focus on **clean architecture**, **beautiful UI**, and **smooth user experienc
 
 ---
 
-### 🌟 Selected Projects
-
-| Project | Description | Key Features |
-|----------|--------------|---------------|
-| **Qimni** | A smart Linktree-style app where users share links, sell products, and earn commissions. | Pro & Premium subscriptions, analytics, shop management, social sharing |
-| **Meknaz** | A financial management app for expense tracking and saving goals. | Budget planner, goal tracker, spending insights |
-| **Inner Peace** | A mental health support app for mood tracking and communication with therapists. | Mood tracking, AI-powered chat, motivation, awareness content |
-| **Qatra** | IoT-connected water monitoring app using Arduino. | Real-time consumption tracking, awareness tips |
-| **PopRoom** | A voice chat app with WebRTC, private rooms, and deep linking. | Cross-platform linking, real-time communication |
-| **AOU Connect** | A university companion app for students. | Schedule tracking, chat per subject, academic advisor contact |
-| **Noor AlEman** | Islamic app for Quran, Duas, and prayer times. | Quran recitation, daily reminders, full localization |
+### 🌟 Selected Projects | Project | Description | Key Features | |----------|--------------|---------------| | **Qimni** | A smart Linktree-style app where users share links, sell products, and earn commissions. | Pro & Premium subscriptions, analytics, shop management, social sharing | | **Meknaz** | A financial management app for expense tracking and saving goals. | Budget planner, goal tracker, spending insights | | **Inner Peace** | A mental health support app for mood tracking and communication with therapists. | Mood tracking, AI-powered chat, motivation, awareness content | | **Qatra** | IoT-connected water monitoring app using Arduino. | Real-time consumption tracking, awareness tips | | **PopRoom** | A voice chat app with WebRTC, private rooms, and deep linking. | Cross-platform linking, real-time communication | | **AOU Connect** | A university companion app for students. | Schedule tracking, chat per subject, academic advisor contact | | **Noor AlEman** | Islamic app for Quran, Duas, and prayer times. | Quran recitation, daily reminders, full localization | | **Yaqeen - أذكار المسلم** | Islamic app for daily Azkar and supplications. | Morning & evening Azkar, prayer reminders, daily notifications, [Google Play](https://play.google.com/store/apps/details?id=com.yakeen.azkar.yaqeen_azkar) |
 
 ---
 
