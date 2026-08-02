@@ -28,7 +28,8 @@ I focus on **clean architecture**, **beautiful UI**, and **smooth user experienc
 - Experienced in **BLoC / Cubit**, **Firebase**, **SQLite**, and **API integration**.  
 - Passionate about UI design, architecture, and app optimization.  
 - Worked on multiple projects — commercial and personal — not all listed here.  
-
+My Portfolio
+https://ahmedmahrous0023.github.io/ahmed-mahrous-portfolio/
 ---
 
 ### ⚙️ Tech Stack
